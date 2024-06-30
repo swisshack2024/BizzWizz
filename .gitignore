@@ -1,0 +1,10 @@
+bizz-back/openai_configs.json
+bizz-back/db/*
+bizz-back/db/
+bizz-back/db
+bizz-back/.env
+bizz-back/data
+bizz-back/data/
+bizz-back/data/*
+
+bizz-back/myenv

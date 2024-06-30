@@ -1,0 +1,5 @@
+flask
+Flask-CORS
+openai
+langchain
+langchain-chroma

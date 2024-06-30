@@ -1,0 +1,375 @@
+[
+    {
+        "name": "Watershed",
+        "description": "Watershed is a comprehensive sustainability management tool designed to help organizations monitor, manage, and reduce their environmental impact. It offers robust functionalities for data collection, compliance tracking, and detailed reporting on water usage and governance metrics. Watershed empowers businesses to set and achieve sustainability goals through actionable insights and real-time data analytics.",
+        "kpis": [
+            "water",
+            "governance"
+        ],
+        "functionalities": [
+            "Data collection",
+            "Compliance",
+            "Tracking",
+            "Reporting"
+        ],
+        "industries": [
+            "All industries"
+        ]
+    },
+    {
+        "name": "Sustainalytics",
+        "description": "Provides ESG and corporate governance research and ratings.",
+        "kpis": [
+            "environmental opportunities",
+            "social responsibility",
+            "corporate governance"
+        ],
+        "functionalities": [
+            "Research",
+            "Ratings",
+            "Benchmarking",
+            "Analysis"
+        ],
+        "industries": [
+            "Finance",
+            "Healthcare",
+            "Energy"
+        ]
+    },
+    {
+        "name": "EcoMetric",
+        "description": "Tool for measuring and managing sustainability performance.",
+        "kpis": [
+            "carbon footprint",
+            "resource management",
+            "waste management"
+        ],
+        "functionalities": [
+            "Performance measurement",
+            "Data visualization",
+            "Management"
+        ],
+        "industries": [
+            "Manufacturing",
+            "Agriculture",
+            "Construction"
+        ]
+    },
+    {
+        "name": "GreenWorks",
+        "description": "Platform for tracking and improving environmental impact.",
+        "kpis": [
+            "energy use",
+            "water efficiency",
+            "pollution"
+        ],
+        "functionalities": [
+            "Tracking",
+            "Improvement",
+            "Reporting"
+        ],
+        "industries": [
+            "Real Estate",
+            "Hospitality",
+            "Construction"
+        ]
+    },
+    {
+        "name": "SustainHub",
+        "description": "Comprehensive tool for sustainability assessment and reporting.",
+        "kpis": [
+            "sustainability strategy",
+            "stakeholder engagement",
+            "data security"
+        ],
+        "functionalities": [
+            "Assessment",
+            "Reporting",
+            "Stakeholder management"
+        ],
+        "industries": [
+            "All industries"
+        ]
+    },
+    {
+        "name": "CarbonPro",
+        "description": "Carbon management software for tracking emissions.",
+        "kpis": [
+            "carbon emissions",
+            "greenhouse gas emissions",
+            "renewable energy targets"
+        ],
+        "functionalities": [
+            "Tracking",
+            "Management",
+            "Compliance"
+        ],
+        "industries": [
+            "Energy",
+            "Transportation",
+            "Manufacturing"
+        ]
+    },
+    {
+        "name": "WaterWise",
+        "description": "Tool for optimizing water use and conservation.",
+        "kpis": [
+            "water usage",
+            "water conservation",
+            "water security"
+        ],
+        "functionalities": [
+            "Optimization",
+            "Tracking",
+            "Conservation"
+        ],
+        "industries": [
+            "Agriculture",
+            "Food and Beverage",
+            "Pharmaceuticals"
+        ]
+    },
+    {
+        "name": "EthicalTrade",
+        "description": "Platform for ensuring ethical supply chain practices.",
+        "kpis": [
+            "ethical supply chain",
+            "labor practices",
+            "supplier performance"
+        ],
+        "functionalities": [
+            "Compliance",
+            "Monitoring",
+            "Reporting"
+        ],
+        "industries": [
+            "Retail",
+            "Healthcare",
+            "Manufacturing"
+        ]
+    },
+    {
+        "name": "SustainTrack",
+        "description": "Tracks sustainability metrics and provides insights for improvement.",
+        "kpis": [
+            "energy consumption",
+            "resource use",
+            "environmental compliance"
+        ],
+        "functionalities": [
+            "Tracking",
+            "Insights",
+            "Improvement"
+        ],
+        "industries": [
+            "Construction",
+            "Energy",
+            "Real Estate"
+        ]
+    },
+    {
+        "name": "ImpactMeter",
+        "description": "Measures and reports on social and environmental impact.",
+        "kpis": [
+            "social capital",
+            "environmental impact",
+            "community relations"
+        ],
+        "functionalities": [
+            "Measurement",
+            "Reporting",
+            "Impact analysis"
+        ],
+        "industries": [
+            "Education",
+            "Nonprofit",
+            "Healthcare"
+        ]
+    },
+    {
+        "name": "EcoAssess",
+        "description": "Environmental assessment tool for sustainability management.",
+        "kpis": [
+            "resource management",
+            "pollution",
+            "waste management"
+        ],
+        "functionalities": [
+            "Assessment",
+            "Management",
+            "Reporting"
+        ],
+        "industries": [
+            "Manufacturing",
+            "Chemicals",
+            "Aerospace"
+        ]
+    },
+    {
+        "name": "GreenScope",
+        "description": "Provides comprehensive sustainability reporting and analytics.",
+        "kpis": [
+            "energy use",
+            "carbon footprint",
+            "sustainability strategy"
+        ],
+        "functionalities": [
+            "Reporting",
+            "Analytics",
+            "Strategy"
+        ],
+        "industries": [
+            "Finance",
+            "Real Estate",
+            "Energy"
+        ]
+    },
+    {
+        "name": "EnviroCert",
+        "description": "Certification tool for environmental compliance.",
+        "kpis": [
+            "environmental compliance",
+            "land use",
+            "indoor environmental quality"
+        ],
+        "functionalities": [
+            "Certification",
+            "Compliance",
+            "Monitoring"
+        ],
+        "industries": [
+            "Construction",
+            "Real Estate",
+            "Hospitality"
+        ]
+    },
+    {
+        "name": "SustainOptimizer",
+        "description": "Optimization tool for sustainability practices.",
+        "kpis": [
+            "energy consumption",
+            "water efficiency",
+            "resource management"
+        ],
+        "functionalities": [
+            "Optimization",
+            "Tracking",
+            "Reporting"
+        ],
+        "industries": [
+            "Manufacturing",
+            "Agriculture",
+            "Construction"
+        ]
+    },
+    {
+        "name": "GreenMetrics",
+        "description": "Tool for measuring and managing sustainability metrics.",
+        "kpis": [
+            "carbon intensity",
+            "renewable energy targets",
+            "waste recycling rate"
+        ],
+        "functionalities": [
+            "Measurement",
+            "Management",
+            "Reporting"
+        ],
+        "industries": [
+            "Energy",
+            "Automotive",
+            "Pharmaceuticals"
+        ]
+    },
+    {
+        "name": "ClimateAction",
+        "description": "Tool for setting and tracking climate action targets.",
+        "kpis": [
+            "greenhouse gas emissions",
+            "carbon footprint",
+            "renewable energy targets"
+        ],
+        "functionalities": [
+            "Target setting",
+            "Tracking",
+            "Reporting"
+        ],
+        "industries": [
+            "All industries"
+        ]
+    },
+    {
+        "name": "EcoScore",
+        "description": "Platform for scoring and improving environmental performance.",
+        "kpis": [
+            "environmental impact",
+            "resource use",
+            "energy consumption"
+        ],
+        "functionalities": [
+            "Scoring",
+            "Improvement",
+            "Reporting"
+        ],
+        "industries": [
+            "Transportation",
+            "Manufacturing",
+            "Chemicals"
+        ]
+    },
+    {
+        "name": "SustainAnalytics",
+        "description": "Analytics tool for sustainability performance.",
+        "kpis": [
+            "social responsibility",
+            "corporate governance",
+            "brand management"
+        ],
+        "functionalities": [
+            "Analytics",
+            "Performance measurement",
+            "Reporting"
+        ],
+        "industries": [
+            "Finance",
+            "Healthcare",
+            "Energy"
+        ]
+    },
+    {
+        "name": "GreenFleet",
+        "description": "Tool for managing and optimizing fleet sustainability.",
+        "kpis": [
+            "carbon emissions",
+            "fuel efficiency",
+            "energy consumption"
+        ],
+        "functionalities": [
+            "Management",
+            "Optimization",
+            "Reporting"
+        ],
+        "industries": [
+            "Transportation",
+            "Logistics",
+            "Delivery Services"
+        ]
+    },
+    {
+        "name": "SustainPro",
+        "description": "Professional tool for sustainability strategy and reporting.",
+        "kpis": [
+            "sustainability strategy",
+            "stakeholder engagement",
+            "data security"
+        ],
+        "functionalities": [
+            "Strategy",
+            "Reporting",
+            "Stakeholder engagement"
+        ],
+        "industries": [
+            "All industries"
+        ]
+    }
+]

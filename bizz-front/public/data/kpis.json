@@ -1,0 +1,214 @@
+[
+    {
+        "name": "CO2 per employee",
+        "description": "Estimated amount of CO2 emissions per employee per year",
+        "value": "78t of emissions",
+        "industries": [
+            "All industries"
+        ]
+    },
+    {
+        "name": "Water consumption per employee",
+        "description": "Estimated amount of water consumption",
+        "value": "200 liters of water",
+        "industries": [
+            "All industries"
+        ]
+    },
+    {
+        "name": "Energy use per square meter",
+        "description": "Average energy use per square meter of office space",
+        "value": "150 kWh",
+        "industries": [
+            "Software",
+            "Finance",
+            "Real Estate",
+            "Telecommunications",
+            "Education"
+        ]
+    },
+    {
+        "name": "Waste recycling rate",
+        "description": "Percentage of waste that is recycled",
+        "value": "65%",
+        "industries": [
+            "Manufacturing",
+            "Automotive",
+            "Retail",
+            "Healthcare",
+            "Agriculture"
+        ]
+    },
+    {
+        "name": "Employee turnover rate",
+        "description": "Annual percentage of employees leaving the company",
+        "value": "12%",
+        "industries": [
+            "All industries"
+        ]
+    },
+    {
+        "name": "Renewable energy usage",
+        "description": "Percentage of energy from renewable sources",
+        "value": "40%",
+        "industries": [
+            "Energy",
+            "Automotive",
+            "Real Estate",
+            "Manufacturing",
+            "Pharmaceuticals"
+        ]
+    },
+    {
+        "name": "Carbon footprint",
+        "description": "Total annual carbon emissions",
+        "value": "5,000t CO2e",
+        "industries": [
+            "Energy",
+            "Agriculture",
+            "Manufacturing",
+            "Transportation",
+            "Aerospace"
+        ]
+    },
+    {
+        "name": "Water conservation initiatives",
+        "description": "Number of water conservation projects implemented",
+        "value": "15 projects",
+        "industries": [
+            "Agriculture",
+            "Manufacturing",
+            "Energy",
+            "Pharmaceuticals",
+            "Chemicals"
+        ]
+    },
+    {
+        "name": "Resource management efficiency",
+        "description": "Efficiency rating of resource management practices",
+        "value": "85%",
+        "industries": [
+            "Software",
+            "Construction",
+            "Hospitality",
+            "Transportation",
+            "Food and Beverage"
+        ]
+    },
+    {
+        "name": "Community engagement activities",
+        "description": "Number of community engagement activities conducted annually",
+        "value": "25 activities",
+        "industries": [
+            "Retail",
+            "Finance",
+            "Healthcare",
+            "Education",
+            "Entertainment"
+        ]
+    },
+    {
+        "name": "Governance score",
+        "description": "Overall governance score based on industry standards",
+        "value": "90%",
+        "industries": [
+            "All industries"
+        ]
+    },
+    {
+        "name": "Supplier performance rating",
+        "description": "Average performance rating of suppliers",
+        "value": "88%",
+        "industries": [
+            "Retail",
+            "Automotive",
+            "Pharmaceuticals",
+            "Construction",
+            "Aerospace"
+        ]
+    },
+    {
+        "name": "Ethical supply chain compliance",
+        "description": "Percentage of supply chain adhering to ethical standards",
+        "value": "92%",
+        "industries": [
+            "All industries"
+        ]
+    },
+    {
+        "name": "Labor conditions satisfaction",
+        "description": "Percentage of employees satisfied with labor conditions",
+        "value": "80%",
+        "industries": [
+            "Manufacturing",
+            "Construction",
+            "Agriculture",
+            "Energy",
+            "Healthcare"
+        ]
+    },
+    {
+        "name": "Environmental impact score",
+        "description": "Score assessing the environmental impact of operations",
+        "value": "75%",
+        "industries": [
+            "All industries"
+        ]
+    },
+    {
+        "name": "Energy consumption per unit product",
+        "description": "Average energy consumed per unit of product produced",
+        "value": "50 kWh",
+        "industries": [
+            "Manufacturing",
+            "Automotive",
+            "Chemicals",
+            "Aerospace",
+            "Pharmaceuticals"
+        ]
+    },
+    {
+        "name": "Indoor environmental quality",
+        "description": "Rating of the indoor environmental quality in facilities",
+        "value": "85%",
+        "industries": [
+            "Healthcare",
+            "Education",
+            "Software",
+            "Finance",
+            "Telecommunications"
+        ]
+    },
+    {
+        "name": "Pollution reduction initiatives",
+        "description": "Number of initiatives aimed at reducing pollution",
+        "value": "10 initiatives",
+        "industries": [
+            "Chemicals",
+            "Manufacturing",
+            "Energy",
+            "Transportation",
+            "Construction"
+        ]
+    },
+    {
+        "name": "Sustainability strategy score",
+        "description": "Overall score for the company's sustainability strategy",
+        "value": "80%",
+        "industries": [
+            "All industries"
+        ]
+    },
+    {
+        "name": "Deforestation prevention measures",
+        "description": "Number of measures taken to prevent deforestation",
+        "value": "8 measures",
+        "industries": [
+            "Agriculture",
+            "Manufacturing",
+            "Energy",
+            "Construction",
+            "Pharmaceuticals"
+        ]
+    }
+]

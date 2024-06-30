@@ -1,0 +1,248 @@
+[
+    {
+        "name": "Global Reporting Initiative (GRI) Standards",
+        "description": "Provides a global standard for sustainability reporting covering economic, environmental, and social impacts.",
+        "kpis": [
+            "energy",
+            "water",
+            "waste",
+            "emissions",
+            "labor practices"
+        ],
+        "tools": [
+            "sustainability reports",
+            "GRI database"
+        ],
+        "industries": [
+            "All industries"
+        ]
+    },
+    {
+        "name": "MSCI ESG Ratings",
+        "description": "Rates companies based on their exposure to long-term environmental, social, and governance risks and opportunities.",
+        "kpis": [
+            "governance",
+            "social capital",
+            "environmental opportunities"
+        ],
+        "tools": [
+            "rating system"
+        ],
+        "industries": [
+            "Finance",
+            "Energy",
+            "Healthcare"
+        ]
+    },
+    {
+        "name": "S&P Global Sustainability Yearbook",
+        "description": "Highlights top-performing companies in global sustainability, providing detailed insights into sustainability practices.",
+        "kpis": [
+            "stakeholder engagement",
+            "sustainability strategy",
+            "data security"
+        ],
+        "tools": [
+            "sustainability assessment"
+        ],
+        "industries": [
+            "All industries"
+        ]
+    },
+    {
+        "name": "CDP",
+        "description": "Helps companies disclose their environmental impacts, focusing on greenhouse gas emissions, water management, and forest conservation.",
+        "kpis": [
+            "carbon footprint",
+            "water security",
+            "deforestation"
+        ],
+        "tools": [
+            "disclosure platform"
+        ],
+        "industries": [
+            "Energy",
+            "Manufacturing",
+            "Agriculture"
+        ]
+    },
+    {
+        "name": "SASB Standards",
+        "description": "Provides industry-specific standards that help companies disclose financial material sustainability information to investors.",
+        "kpis": [
+            "labor practices",
+            "resource management",
+            "community relations"
+        ],
+        "tools": [
+            "sector-specific standards"
+        ],
+        "industries": [
+            "All industries"
+        ]
+    },
+    {
+        "name": "ISO 14001",
+        "description": "International standard that specifies requirements for an effective environmental management system (EMS).",
+        "kpis": [
+            "environmental compliance",
+            "waste management",
+            "resource use"
+        ],
+        "tools": [
+            "EMS framework"
+        ],
+        "industries": [
+            "Manufacturing",
+            "Construction",
+            "Healthcare"
+        ]
+    },
+    {
+        "name": "LEED",
+        "description": "Certification program that recognizes best-in-class building strategies for green building and design.",
+        "kpis": [
+            "energy use",
+            "water efficiency",
+            "indoor environmental quality"
+        ],
+        "tools": [
+            "building certification"
+        ],
+        "industries": [
+            "Real Estate",
+            "Construction",
+            "Hospitality"
+        ]
+    },
+    {
+        "name": "BREEAM",
+        "description": "Assesses the sustainability of buildings against a set of criteria to encourage a more sustainable environment.",
+        "kpis": [
+            "energy",
+            "land use",
+            "pollution"
+        ],
+        "tools": [
+            "assessment method"
+        ],
+        "industries": [
+            "Real Estate",
+            "Construction"
+        ]
+    },
+    {
+        "name": "Science Based Targets initiative (SBTi)",
+        "description": "Enables companies to set ambitious emissions reductions targets to meet the goals of the Paris Agreement.",
+        "kpis": [
+            "greenhouse gas emissions",
+            "renewable energy targets",
+            "carbon intensity"
+        ],
+        "tools": [
+            "emission targets setting"
+        ],
+        "industries": [
+            "All industries"
+        ]
+    },
+    {
+        "name": "Dow Jones Sustainability Indices",
+        "description": "Provides benchmarks for investors who want to reflect their sustainability convictions in their portfolios.",
+        "kpis": [
+            "corporate governance",
+            "risk management",
+            "brand management"
+        ],
+        "tools": [
+            "investment indices"
+        ],
+        "industries": [
+            "Finance",
+            "Insurance",
+            "Telecommunications"
+        ]
+    },
+    {
+        "name": "FTSE4Good Index Series",
+        "description": "Designed to measure the performance of companies demonstrating strong ESG practices.",
+        "kpis": [
+            "environmental sustainability",
+            "social responsibility",
+            "governance"
+        ],
+        "tools": [
+            "indices"
+        ],
+        "industries": [
+            "Finance",
+            "Manufacturing",
+            "Energy"
+        ]
+    },
+    {
+        "name": "EcoVadis",
+        "description": "Provides sustainability ratings for global supply chains, assessing companies on environment, labor practices, ethics, and sustainable procurement.",
+        "kpis": [
+            "supplier performance",
+            "ethical supply chain",
+            "labor practices"
+        ],
+        "tools": [
+            "rating platform"
+        ],
+        "industries": [
+            "Retail",
+            "Manufacturing",
+            "Healthcare"
+        ]
+    },
+    {
+        "name": "Carbon Footprint Calculator",
+        "description": "Tool to calculate the carbon footprint of operations, useful in setting reduction goals and reporting.",
+        "kpis": [
+            "carbon emissions",
+            "energy consumption"
+        ],
+        "tools": [
+            "calculator"
+        ],
+        "industries": [
+            "Transportation",
+            "Manufacturing",
+            "Energy"
+        ]
+    },
+    {
+        "name": "Water Footprint Assessment Tool",
+        "description": "Helps companies and individuals assess and report the water footprint of their activities or products.",
+        "kpis": [
+            "water usage",
+            "water conservation"
+        ],
+        "tools": [
+            "assessment tool"
+        ],
+        "industries": [
+            "Agriculture",
+            "Manufacturing",
+            "Food and Beverage"
+        ]
+    },
+    {
+        "name": "Higg Index",
+        "description": "Measures the environmental and social impacts of apparel and footwear products across the product lifecycle.",
+        "kpis": [
+            "material sustainability",
+            "labor conditions",
+            "environmental impact"
+        ],
+        "tools": [
+            "index assessment"
+        ],
+        "industries": [
+            "Retail",
+            "Manufacturing"
+        ]
+    }
+]
