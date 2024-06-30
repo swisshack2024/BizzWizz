@@ -1,16 +1,3 @@
-cd bizz-front
-npm install
-npm run dev
+# BizzWizz Platform
 
-then, on another terminal
-
-cd bizz-back
-pip install -r requirements.txt
-python app.py
-
-
-Make sure:
-1) you have the files inside /bizz-back/data
-- If the data you have are only pdf's, also remember to run parse_pdf_json.py to parse them to json first
-2) you have bizz-back/openai_configs.json
-3) If you want to force-recreate the vectordb, change RECREATE_CHROMA to true in app.py
+BizzWizz platform is a revolutionary, comprehensive all-in-one platform designed to empower companies in beginning and advancing their sustainability reporting by offering unified standards, insights on best practices and KPI metrics, relevant datasets, and advanced AI-driven tools for detailed peer and benchmark analysis
